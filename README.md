@@ -1,7 +1,7 @@
-# MythRAG — Retrieval-Augmented Q&A for Greek & Norse Mythology
+# MythRAG — Retrieval-Augmented Q&A for Greek Mythology
 
 **One-liner:**  
-Local-first RAG that answers myth questions with citations, maps Greek relationships, and compares Greek ↔ Norse deities.
+Local-first RAG that answers myth questions with citations and maps Greek deities relationships.
 
 **Why it’s interesting:**  
 Hybrid retrieval (**Weaviate BM25 + dense**), graph reasoning (**NetworkX**), runs fully offline on a **CPU-only laptop**.
